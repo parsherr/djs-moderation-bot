@@ -35,7 +35,7 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [beniml
 
 
 # Başlat.bat yapımı :
-aşağadaki kodu kopyalayıp "start.bat" isimli bi dosya açın, kopyaladığınız metni bat dosyasına girin.
+- aşağadaki kodu kopyalayıp "start.bat" isimli bi dosya açın, kopyaladığınız metni bat dosyasına girin.
     ```bash
     echo off
     color 0f
