@@ -14,10 +14,11 @@
 2. **Gerekli Paketleri Yükleyin:**
     - Proje dizininde terminali açın ve aşağıdaki komutu çalıştırın:
     ```bash
-    npm install
+    npm i
+    pnpm i
     ```
 3. **Botu Başlatın:**
-    - `başlat.bat` dosyasını çalıştırın. //node .
+    - `node .` ve ya `node index.js` ile dosyasını çalıştırın.
 
 ## Kullanım
 
@@ -35,7 +36,6 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [beniml
 
 # Başlat.bat yapımı :
 aşağadaki kodu kopyalayıp "start.bat" isimli bi dosya açın, kopyaladığınız metni bat dosyasına girin.
-
     ```bash
     echo off
     color 0f
@@ -44,3 +44,5 @@ aşağadaki kodu kopyalayıp "start.bat" isimli bi dosya açın, kopyaladığın
     node index.js
     goto a
     ```
+
+    iyi kullanuımlar
