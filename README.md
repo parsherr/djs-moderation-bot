@@ -15,7 +15,7 @@
     - Proje dizininde terminali açın ve aşağıdaki komutu çalıştırın:
     ```bash
     npm i
-    pnpm i
+    pnpm i readme
     ```
 3. **Botu Başlatın:**
     - `node .` ve ya `node index.js` ile dosyasını çalıştırın.
