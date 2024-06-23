@@ -13,7 +13,7 @@
     
 2. **Gerekli Paketleri Yükleyin:**
     - Proje dizininde terminali açın ve aşağıdaki komutu çalıştırın:
-    ```bash
+    ```bash readme
     npm i
     pnpm i
     ```
