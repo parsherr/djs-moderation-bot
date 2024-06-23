@@ -14,7 +14,7 @@
 2. **Gerekli Paketleri Yükleyin:**
     - Proje dizininde terminali açın ve aşağıdaki komutu çalıştırın:
     ```bash
-    npm i
+    npm i readme
     pnpm i
     ```
 3. **Botu Başlatın:**
