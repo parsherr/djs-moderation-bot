@@ -74,7 +74,7 @@ client.on("messageCreate", async (message) => {
             "oç", "amk", "ananı sikiyim", "ananıskm", "piç", "amsk", "sikim", "sikiyim", 
             "orospu çocuğu", "piç kurusu", "kahpe", "orospu", "göt", "sik", "yarrak", "am", 
             "amcık", "amık", "yarram", "sikimi ye", "mk", "mq", "aq", "ak", "amq", "amını", "anneni",
-            "kaşar", "pezevenk", "yarak", "fuck", "ibne", "skim", "amına", "taşşak", "yarak", "bitch", "nigga", "aw", "yarra", "skiyim", "götveren"
+            "kaşar", "pezevenk", "yarak", "fuck", "ibne", "skim", "amına", "taşşak", "yarak", "bitch", "nigga", "aw", "yarra", "skiyim", "götveren", "pedo"
         ];
 
         const regex = new RegExp(`\\b(${kufurList.join("|")})\\b`, "i");
