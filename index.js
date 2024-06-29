@@ -100,6 +100,7 @@ client.on("messageCreate", async (message) => {
         }
     }
 });
+
 client.on('messageCreate', async message => {
     if (client.reklamEngel && !message.author.bot) {
         const Reklamlist = [
