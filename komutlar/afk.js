@@ -37,5 +37,5 @@ exports.conf = {
 exports.help = {
     name: "afk",
     description: "Belirttiğiniz neden ile AFK moduna geçersiniz.",
-    usage: "/afk [sebep]"
+    usage: "n!afk [sebep]"
 };
